@@ -14,10 +14,10 @@ mkdir -p $APACHE_BASE_PATH
 # Change Working directory
 cd $APACHE_BASE_PATH
 
-# Download the latest version of Craft 3
+# Download the latest version of Craft 2
 wget https://craftcms.com/latest-v2.zip
 
-# Unzip latest-v3.zip
+# Unzip latest-v2.zip
 unzip latest-v2.zip
 
 # Remove Zip
